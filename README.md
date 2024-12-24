@@ -12,15 +12,15 @@ Category: Таблица категорий.
 
 Связи:
 
-Ad связан с User через поле owner (один ко многим).
+Ad связан с User через поле owner 
 
-Review связан с User через поле owner (один ко многим).
+Review связан с User через поле owner 
 
-Review связан с Ad через поле ad (один ко многим).
+Review связан с Ad через поле ad 
 
-Category связан с User через поле owner (один ко многим).
+Category связан с User через поле owner 
 
-Category связан с Ad через поле ads (многие ко многим).
+Category связан с Ad через поле ads 
 
 Работа в Postman
 
